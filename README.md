@@ -7,7 +7,7 @@ This is repository has been made to help prepare for the technical portions of s
 
 | Topic | Week |
 |-------| -----|
-| - [ ] Arrays and Strings | <i>Week 1</i>
+| - [x] Arrays and Strings | <i>Week 1</i>
 | - [ ] Linked Lists | <i>Week 2</i>
 | - [ ] Stacks and Queues | <i>Week 3</i>
 | - [ ] Trees and Graphs | <i>Week 4</i>
